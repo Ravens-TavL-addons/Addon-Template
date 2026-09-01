@@ -1,0 +1,1 @@
+"description that appears in the addon manager. This is a required field."
